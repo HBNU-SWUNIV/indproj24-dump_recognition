@@ -24,7 +24,7 @@
   - 특히 무단 투기가 빈번히 일어나는 지역에서는 실시간 감시와 대응이 어려워지며, 사람의 피로와 집중력 저하로 인해 투기 행위를 놓치거나 잘못 판단할 위험이 있음
   
 ## System Design
-  - ### System Requirements
+  - ### System Features
     - MMAction2의 I3D 신경망을 활용하여 입력 동영상에서 투기 행동을 정확하게 인식
     - MMaction2에서 지원하는 Kinetics-400으로 사전학습된 I3D(Inflated 3D ConvNet) 신경망을 미세 조정(Fine Tuning) 학습을 진행하여 성능 개선
     - AI-HUB에서 제공하는 이상행동 CCTV 영상의 투기(dump) 데이터 셋을 사용하여 미세 조정 학습 진행
