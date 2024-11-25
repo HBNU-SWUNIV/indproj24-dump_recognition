@@ -51,8 +51,8 @@
    
   - #### 무단 투기 인식 모델 학습 결과
 
-      ![사진1](![사진1](./001%20Source%20Code/resources/train.png)
-)
+      ![사진1](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/train.png)
+
 
       - I3D 모델의 학습 과정의 시각화 그래프
       - 상단의 정확도 그래프는 학습 초반에는 정확도가 낮다가 약 100번의 Iteration 후 1.0에 수렴하는 모습을 보임
