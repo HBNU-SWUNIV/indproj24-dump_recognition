@@ -61,8 +61,7 @@
         - 이는 모델이 점차 데이터를 잘 학습하고 오류를 줄여가고 있음을 나타냄
       - 두 그래프는 모델이 무단 투기 행동을 효과적으로 학습했음을 확인시켜주며, 데이터셋과 모델 구조가 최적화되어 높은 성능을 보일 가능성을 시사함
        
-| ![사진1](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/1_night_summer.jpg
-) | ![사진2](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/2_day_spring.jpg) |
+| ![사진1](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/1_night_summer.jpg) | ![사진2](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/2_day_spring.jpg) |
 |:-----------------:|:---------------:|
 | 투기행위 신뢰도 : 0.78 (야간)             | 투기행위 신뢰도 : 0.98 (주간)           |
 | ![사진3](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/3_day_summer.jpg) | ![사진4](https://github.com/HBNU-SWUNIV/indproj24-dump_recognition/blob/main/001%20Source%20Code/resources/4_day_summer.jpg) |
